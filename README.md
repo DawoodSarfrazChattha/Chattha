@@ -1,99 +1,97 @@
-## I'm a Dawood Sarfraz Chattha!!
+### Hi there 👋
+![](https://komarev.com/ghpvc/?username=usamayazdani)
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+<h1> 💁‍♂️ I'm Usama  Yazdani </h1>
 
 
-<br />
-<br />
+<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
+
+- 🎓 &nbsp; Studying Computer Science at FAST National University.
+- 😊 &nbsp; Let's go to done something new.
+- 🥋 &nbsp; hobbies-> Football.
+- 💻 &nbsp; "while((Be_happy)){code(); };!"
+- 🕋 &nbsp; "And Allah found you in lost and guided [you] <-{surah rehman}"
+
+<h3> 🛠 &nbsp; Skills! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
+  ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+  ![Data structures](https://img.shields.io/badge/Data%20structure-c%2B%2B-blue)
+  ![Assembly Language](https://img.shields.io/badge/Assembly%20Language%20-16%20bit--32%20bit-brightgreen)
+
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Dom](https://img.shields.io/badge/Dom-javascript-blu)
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+- ⚙️ &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
   
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mongodb-developer/prisma-nextjs-example/pull/1) in [mongodb-developer/prisma-nextjs-example](https://github.com/mongodb-developer/prisma-nextjs-example)
-2. 💪 Opened PR [#1](https://github.com/mongodb-developer/prisma-nextjs-example/pull/1) in [mongodb-developer/prisma-nextjs-example](https://github.com/mongodb-developer/prisma-nextjs-example)
-3. ❗️ Closed issue [#40](https://github.com/codeSTACKr/minter-dapp/issues/40) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#40](https://github.com/codeSTACKr/minter-dapp/issues/40) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. 🗣 Commented on [#38](https://github.com/codeSTACKr/minter-dapp/issues/38) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-<!--END_SECTION:activity-->
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<h3> ✌🏽 &nbsp; Projects! ✌ &nbsp </h3>
+ 
+ - ![Restaurant Managment System](https://img.shields.io/badge/Restaurant%20Managment%20System-oop%20-pink)
+ - ![caesar cipher ](https://img.shields.io/badge/caesar%20cipher-Assemly%20Language%20-white)
 
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DawoodSafrazChattha&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<h3> 🤝🏻 &nbsp;Contact Me:) </h3>
 
-<br/>
-<br/>
+<p align='center'>
+  
+  <a href="https://wa.me/message/OBSIPJAS5VMUJ1">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="http://www.linkedin.com/in/usama-yazdani-0568941b7">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/im_saama/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/UsamaYazdani2">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <ul>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <li>usamayazdani143@gmail</li>
+   </ul>
+  </a>&nbsp;&nbsp;
+</p>
 
-**Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= DawoodSarfrazChattha &theme=radical)
-<a href="https://github.com/DawoodSafrazChattha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodSafrazChattha&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DawoodSafrazChattha&show_icons=true&theme=light&line_height=27" alt="DawoodSafrazChattha github stats"/>
-</a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DawoodSafrazChattha&repo=FlutterExampleApps&theme=light" />
 
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DawoodSafrazChattha&repo=VelocityX&theme=light" />
-</a>
 
-<div align="center">
+<!--![](https://komarev.com/ghpvc/?username=usamayazdani&color=blue)
+<!--![](https://komarev.com/ghpvc/?username=usamayazdani&color=dc143c)
+<!--![](https://komarev.com/ghpvc/?username=usamayazdani&style=flat-square)
+<!--![](https://komarev.com/ghpvc/?username=usamayazdani&label=PROFILE+VIEWS)
 
-</div>
+
+
+
+<!--
+**usamayazdani/usamayazdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
