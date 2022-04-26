@@ -9,7 +9,7 @@
 
 
 
-[![Dawood's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DawoodSarfrazChattha)](https://github.com/DawoodSarfrazChattha/github-readme-stats)
+
 
 
 
@@ -92,4 +92,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodSarfrazChattha&layout=compact)](https://github.com/DawoodSarfrazChattha/github-readme-stats)
+[![Dawood's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DawoodSarfrazChattha)](https://github.com/DawoodSarfrazChattha/github-readme-stats)
