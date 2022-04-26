@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=DawoodSarfrazChattha)
 
 <h1> 💁‍♂️ I'm Dawood Sarfraz Chattha </h1>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DawoodSarfrazChattha&repo=github-readme-stats)](https://github.com/DawoodSarfrazChattha/github-readme-stats)
 ![Dawood's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawoodSarfrazChattha&show_icons=true&theme=radical)
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
