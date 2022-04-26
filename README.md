@@ -1,7 +1,7 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=usamayazdani)
+![](https://komarev.com/ghpvc/?username=DawoodSarfrazChattha)
 
-<h1> 💁‍♂️ I'm Usama  Yazdani </h1>
+<h1> 💁‍♂️ I'm Dawood Sarfraz Chattha </h1>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
@@ -59,7 +59,7 @@
   <a href="https://www.instagram.com/im_saama/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/UsamaYazdani2">
+  <a href="https://twitter.com/DawoodChattha03">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <ul>
