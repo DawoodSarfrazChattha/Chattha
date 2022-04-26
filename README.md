@@ -42,11 +42,6 @@
 
 <h3> ✌🏽 &nbsp; Projects! ✌ &nbsp </h3>
  
- - ![Restaurant Managment System](https://img.shields.io/badge/Restaurant%20Managment%20System-oop%20-pink)
- - ![caesar cipher ](https://img.shields.io/badge/caesar%20cipher-Assemly%20Language%20-white)
-
-
-
 
 
 <h3> 🤝🏻 &nbsp;Contact Me:) </h3>
