@@ -15,14 +15,12 @@
 
 - 🎓 &nbsp; Studying Computer Science at FAST National University.
 - 😊 &nbsp; Let's go to done something new.
-- 🥋 &nbsp; hobbies-> Football.
-- 💻 &nbsp; "while((Be_happy)){code(); };!"
-- 🕋 &nbsp; "And Allah found you in lost and guided [you] <-{surah rehman}"
+
 
 <h3> 🛠 &nbsp; Skills! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-VS%20Code-blue)
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
   ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
   ![Data structures](https://img.shields.io/badge/Data%20structure-c%2B%2B-blue)
