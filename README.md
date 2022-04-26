@@ -63,7 +63,7 @@
   </a>&nbsp;&nbsp;
   <ul>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <li>usamayazdani143@gmail</li>
+    <li>dawoodsarfraz0346@gmail</li>
    </ul>
   </a>&nbsp;&nbsp;
 </p>
