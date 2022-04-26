@@ -21,7 +21,10 @@
   ![Data structures](https://img.shields.io/badge/Data%20structure-c%2B%2B-blue)
   ![Assembly Language](https://img.shields.io/badge/Assembly%20Language%20-16%20bit--32%20bit-brightgreen)
 
+<h3> 🛠 &nbsp; Tools! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+
 - 🌐 &nbsp;
+  Atom
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -29,7 +32,7 @@
   ![Dom](https://img.shields.io/badge/Dom-javascript-blu)
 
 
-- ⚙️ &nbsp;
+- ⚙️  &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
   
