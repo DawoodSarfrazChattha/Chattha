@@ -72,17 +72,3 @@
   </a>&nbsp;&nbsp;
 </p>
 
-
-
-![Dawood's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawoodSarfrazChattha&show_icons=true&theme=radical)
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodSarfrazChattha&langs_count=8)](https://github.com/DawoodSarfrazChattha/github-readme-stats)
-
-
-
-[![Dawood's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DawoodSarfrazChattha)](https://github.com/DawoodSarfrazChattha/github-readme-stats)
