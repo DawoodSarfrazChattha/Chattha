@@ -8,6 +8,14 @@
 
 
 
+
+[![Dawood's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DawoodSarfrazChattha)](https://github.com/DawoodSarfrazChattha/github-readme-stats)
+
+
+
+
+
+
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 
 - 🎓 &nbsp; Studying Computer Science at FAST National University.
