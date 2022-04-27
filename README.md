@@ -28,7 +28,7 @@
 <h3> 🛠 &nbsp; Tools! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 🌐 &nbsp;
-
+  ![Python](https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=blue&logoWidth=30)
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/DawoodSarfrazChattha?style=social">
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
