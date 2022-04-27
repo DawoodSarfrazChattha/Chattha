@@ -39,8 +39,7 @@
 
 - 🌐 &nbsp;
   
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
+  x)
   
   
 
@@ -48,12 +47,9 @@
 - ⚙️  &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
-  
-- 🔧 &nbsp;
- 
-  
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTe)  
 
-<h3> ✌🏽 &nbsp; Projects! ✌ &nbsp </h3>
  
 
 
