@@ -41,7 +41,7 @@
  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FBFBF8?logo=ubuntu&logocolor=Darkgreen&logoWidth=30)
  ![Windows](https://img.shields.io/badge/-windows-FBFBF8?logo=Windows&logocolor=Windows10&logoWidth=30)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-FBFBF8?logo=Kali%20Linux&logocolor=DarkBlack&logoWidth=30)
-  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
+  ![Linux](https://img.shields.io/badge/-linux-FBFBF8?style=flat&logo=linux)
   <h3> 🛠 &nbsp; Tools! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
   
   
