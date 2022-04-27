@@ -36,7 +36,7 @@
   
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/DawoodSarfrazChattha?style=social">
+  
   
 
 
@@ -76,4 +76,6 @@
 </p>
 <h3> 🤝🏻 &nbsp; Followers </h3>
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DawoodChattha03?style=social">
+<p> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DawoodChattha03?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/DawoodSarfrazChattha?style=social">
+</p>
