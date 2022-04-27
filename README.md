@@ -18,24 +18,26 @@
 - 😊 &nbsp; Let's go to done something new.
 
 
-<h3> 🛠 &nbsp; Programming Languages! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+<h3> 🛠 &nbsp; Programming Languages & Frameworks! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 💻 &nbsp;
-   - ![Python](https://img.shields.io/badge/-VS%20Code-blue)
-  ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
-  ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
-
-<h3> 🛠 &nbsp; Tools! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
-
-- 🌐 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=blue&logoWidth=30)
- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/DawoodSarfrazChattha?style=social">
+  
+  ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Dom](https://img.shields.io/badge/Dom-javascript-blu)
+
+<h3> 🛠 &nbsp; Tools! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+
+- 🌐 &nbsp;
+  
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/DawoodSarfrazChattha?style=social">
+  
 
 
 - ⚙️  &nbsp;
