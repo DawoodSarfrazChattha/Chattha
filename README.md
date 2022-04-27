@@ -37,14 +37,7 @@
 </p>
 <h3> 🛠 &nbsp; Tools! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
-- 🌐 &nbsp;
-  
-  x)
-  
-  
-
-
-- ⚙️  &nbsp;
+ ⚙️  &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
