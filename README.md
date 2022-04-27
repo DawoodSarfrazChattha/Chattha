@@ -21,6 +21,9 @@
 <h3> 🛠 &nbsp; Programming Languages & Frameworks! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 💻 &nbsp;
+<p>
+ 
+ 
   ![Python](https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=blue&logoWidth=30)
   
   ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
@@ -29,7 +32,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Dom](https://img.shields.io/badge/Dom-javascript-blu)
-
+ 
+ 
+</p>
 <h3> 🛠 &nbsp; Tools! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 🌐 &nbsp;
