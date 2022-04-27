@@ -35,16 +35,20 @@
  
  
 </p>
-<h3> 🛠 &nbsp; Tools! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+<h3> 🛠 &nbsp; Operating Systems! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
  ⚙️  &nbsp;
  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FBFBF8?logo=ubuntu&logocolor=Darkgreen&logoWidth=30)
  ![Windows](https://img.shields.io/badge/-windows-FBFBF8?logo=Windows&logocolor=Windows10&logoWidth=30)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-FBFBF8?logo=Kali%20Linux&logocolor=DarkBlack&logoWidth=30)
+  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
+  <h3> 🛠 &nbsp; Tools! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+  
+  
   ![Aanaconda](https://img.shields.io/badge/-Aanaconda-F7F6F0?logo=anaconda&logocolor=Darkgreen&logoWidth=30)
   ![Dev C++](https://img.shields.io/badge/Dev-C%2B%2B-blue)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
+  
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTe)  
 
