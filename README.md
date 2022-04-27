@@ -28,6 +28,8 @@
 <h3> 🛠 &nbsp; Tools! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 🌐 &nbsp;
+
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/DawoodSarfrazChattha?style=social">
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -41,7 +43,7 @@
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
   
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ 
   
 
 <h3> ✌🏽 &nbsp; Projects! ✌ &nbsp </h3>
