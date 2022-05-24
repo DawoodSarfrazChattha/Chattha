@@ -58,22 +58,15 @@
 <h3> 🤝🏻 &nbsp;Contact Me:) </h3>
 
 <p align='center'>
-  
-  <a href="https://wa.me/message/OBSIPJAS5VMUJ1">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;
   <a href="http://www.linkedin.com/in/dawood-sarfraz-0466541b6">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/im_saama/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/DawoodChattha03">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <ul>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <li>dawoodsarfraz0346@gmail</li>
+    <li>dawoodsarfraz0346@gmail.com</li>
    </ul>
   </a>&nbsp;&nbsp;
 </p>
