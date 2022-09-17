@@ -20,6 +20,14 @@
 
 <h3> 🛠 &nbsp; Programming Languages & Frameworks! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
+<h3> 🛠 &nbsp; Skills! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
+  ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+  ![Data structures](https://img.shields.io/badge/Data%20structure-c%2B%2B-blue)
+  ![Assembly Language](https://img.shields.io/badge/Assembly%20Language%20-16%20bit--32%20bit-brightgreen)
 - 💻 &nbsp;
 <p>
  
