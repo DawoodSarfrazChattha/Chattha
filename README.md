@@ -5,8 +5,7 @@
 <h1> 💁‍♂️ I'm Dawood Sarfraz Chattha </h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
-- 🎓 I’m currently doing BS(CS) from FAST NUCES.
-- 
+- 🎓 I’m currently doing BS(CS) from FAST NUCES.<br>
 - 🌱 I’m currently learning Artificial Intelligence and machine learning.<br>
 - 👯 I’m looking to collaborate on web projects, Desktop projects.<br>
 - 💬 Ask me about any tech related stuff.<br>
