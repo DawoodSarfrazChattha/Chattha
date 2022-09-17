@@ -68,7 +68,6 @@
 <h3> 🤝🏻 &nbsp;Contact Me:) </h3>
 
 <p align='center'>
-  
   <a href="https://api.whatsapp.com/send?phone=550306 1757838&text=Dawood Sarfraz Chattha">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
