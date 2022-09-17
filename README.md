@@ -5,12 +5,12 @@
 <h1> 💁‍♂️ I'm Dawood Sarfraz Chattha </h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
-
-- 🎓 &nbsp; Studying Computer Science at FAST National University.
+- 🎓 I’m currently doing BS(CS) from FAST NUCES.
+- 🌱 I’m currently learning Artificial Intelligence and machine learning.
+- 👯 I’m looking to collaborate on web projects, Desktop projects.
+- 💬 Ask me about any tech related stuff.
+- 📫 How to reach me: dawoodsarfraz0346@gmail.com
 - 😊 &nbsp; Let's go to done something new.
-- 🥋 &nbsp; hobbies-> Football.
-- 💻 &nbsp; "while((Be_happy)){code(); };!"
-- 🕋 &nbsp; "And Allah found you in lost and guided [you] <-{surah rehman}"
 
 
 
