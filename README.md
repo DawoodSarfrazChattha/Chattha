@@ -92,3 +92,4 @@
 <p> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DawoodChattha03?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/DawoodSarfrazChattha?style=social">
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DawoodSarfrazChattha)](https://git.io/streak-stats)
