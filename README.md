@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/dawood-sarfraz-0466541b6/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/im_saama/">
+  <a href="(https://www.instagram.com/dawoodsarfrazchattha/)">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/UsamaYazdani2">
