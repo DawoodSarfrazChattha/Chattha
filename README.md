@@ -10,14 +10,6 @@
 
 
 
-
-
-<h2> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="50"></h2>
-
-- 🎓 &nbsp; Studying Computer Science at FAST National University.
-- 😊 &nbsp; Let's go to done something new.
-
-
 <h3> 🛠 &nbsp; Programming Languages & Frameworks! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 <h3> 🛠 &nbsp; Skills! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
