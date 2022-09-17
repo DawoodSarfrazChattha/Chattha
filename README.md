@@ -15,6 +15,7 @@
 
 
  <a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DawoodSarfrazChattha&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="DawoodSarfrazChattha's github stats" ></a>
+ 
  <a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodSarfrazChattha&layout=default&theme=radical&buefy&hide_border=true" /></a> 
  <a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DawoodSarfrazChattha&theme=radical&buefy&hide_border=true" alt="Wkatime stats" ></a>
  
@@ -76,12 +77,12 @@
   <a href="[(https://www.instagram.com/dawoodsarfrazchattha/)]">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/UsamaYazdani2">
+  <a href="https://tpaste link here">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <ul>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <li>usamayazdani143@gmail</li>
+    <li>udawoodsarfraz0346@gmail.com</li>
    </ul>
   </a>&nbsp;&nbsp;
 </p>
