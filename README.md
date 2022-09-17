@@ -6,6 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 - 🎓 I’m currently doing BS(CS) from FAST NUCES.
+- 
 - 🌱 I’m currently learning Artificial Intelligence and machine learning.
 - 👯 I’m looking to collaborate on web projects, Desktop projects.
 - 💬 Ask me about any tech related stuff.
@@ -77,13 +78,7 @@
   <a href="[(https://www.instagram.com/dawoodsarfrazchattha/)]">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://tpaste link here">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <ul>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <li>dawoodsarfraz0346@gmail.com</li>
-   </ul>
+ 
   </a>&nbsp;&nbsp;
 </p>
 
