@@ -14,9 +14,8 @@
 
 
 <b>Github Streaks 🔥</b>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DawoodSarfrazChattha&hide_border=true&border_radius=12.2)](https://git.io/streak-stats)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m0rp43us&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DawoodSarfrazChattha&theme=hacker&hide_border=true&border_radius=12.2)](https://git.io/streak-stats)
 
  <a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DawoodSarfrazChattha&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="DawoodSarfrazChattha's github stats" ></a>
  
