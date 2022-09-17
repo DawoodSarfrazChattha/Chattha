@@ -13,10 +13,11 @@
 - 😊 &nbsp; Let's go to done something new.<br>
 
 
-<b>Github Stat </b>
+<b>Github Stat </br>
+
 <a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DawoodSarfrazChattha&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="DawoodSarfrazChattha's github stats" ></a>
 <a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodSarfrazChattha&layout=default&theme=radical&buefy&hide_border=true" /></a> 
-<a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DawoodSarfrazChattha&theme=radical&buefy&hide_border=true" alt="Wkatime stats" ></a>
+<!--<a href="https://github.com/DawoodSarfrazChattha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DawoodSarfrazChattha&theme=radical&buefy&hide_border=true" alt="Wkatime stats" ></a> -->
  
 
 
