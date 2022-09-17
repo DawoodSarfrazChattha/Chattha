@@ -70,7 +70,7 @@
   <a href="https://api.whatsapp.com/send?phone=550306 1757838&text=Dawood Sarfraz Chattha">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
-  <a href="http://www.linkedin.com/in/usama-yazdani-0568941b7">
+  <a href="https://www.linkedin.com/in/dawood-sarfraz-0466541b6/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/im_saama/">
