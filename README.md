@@ -8,10 +8,10 @@
 - 🎓 I’m currently doing BS(CS) from FAST NUCES.
 - 
 - 🌱 I’m currently learning Artificial Intelligence and machine learning.<br>
-- 👯 I’m looking to collaborate on web projects, Desktop projects.
-- 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: dawoodsarfraz0346@gmail.com
-- 😊 &nbsp; Let's go to done something new.
+- 👯 I’m looking to collaborate on web projects, Desktop projects.<br>
+- 💬 Ask me about any tech related stuff.<br>
+- 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
+- 😊 &nbsp; Let's go to done something new.<br>
 
 
 
