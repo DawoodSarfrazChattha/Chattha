@@ -19,14 +19,8 @@
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
   ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
   ![Data structures](https://img.shields.io/badge/Data%20structure-c%2B%2B-blue)
-  ![Assembly Language](https://img.shields.io/badge/Assembly%20Language%20-16%20bit--32%20bit-brightgreen)
-  
-- 💻 &nbsp;
-<p>
- 
- 
+  ![Assembly Language](https://img.shields.io/badge/Assembly%20Language%20-16%20bit--32%20bit-brightgreen) 
   ![Python](https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=blue&logoWidth=30)
-  
   ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
