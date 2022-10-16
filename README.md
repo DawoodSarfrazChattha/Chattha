@@ -54,5 +54,5 @@
 <h3> 🤝🏻 &nbsp; Followers </h3>
 
 <p> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DawoodChattha03?style=social">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/DawoodSarfrazChattha?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Dawoodeveloper?style=social">
 </p>
