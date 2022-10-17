@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on web projects, Desktop projects.<br>
 - 💬 Ask me about any tech related stuff.<br>
 - 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
-- 😊 &nbsp;Let's go to done something new.<br>
+- 😊 Let's go to done something new.<br>
 
 
 <h3> 🛠 &nbsp; Skills! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
