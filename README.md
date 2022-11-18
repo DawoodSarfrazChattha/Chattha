@@ -51,7 +51,7 @@
 <a href="https://github.com/Dawoodeveloper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoodeveloper&layout=default&theme=radical&buefy&hide_border=true" /></a> 
 <a href="https://github.com/Dawoodeveloper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dawoodeveloper&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="Dawoodeveloper's github stats" ></a>
 
-
+[![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dawoodeveloper&bg_color=000000&color=4c9d9e&line=e2a2be&point=0cfd08&area=true&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3> 🤝🏻 &nbsp; Followers </h3>
