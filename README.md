@@ -1,13 +1,16 @@
 ### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dawood Sarfraz
+=============================================================================================================================================
 
-![](https://komarev.com/ghpvc/?username=DawoodSarfrazChattha)
+𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝐖𝐞𝐛 𝐬𝐜𝐫𝐚𝐩𝐞𝐫
+---------------------------------------------------------------------------------
 
-<h1> 💁‍♂️ I'm Dawood Sarfraz </h1>
+𝑰'𝒗𝒆 𝒃𝒆𝒆𝒏 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒍𝒊𝒌𝒆 **_Python_**, **_Java_**, **_C/C++_**, **_𝑨𝒔𝒔𝒆𝒎𝒃𝒍𝒚_**, 𝒕𝒉𝒆𝒏 𝑰 𝒘𝒐𝒓𝒌 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝑫𝒆𝑽𝒐𝒑𝒔. 𝒃𝒖𝒕 𝒉𝒂𝒗𝒆 𝒓𝒆𝒂𝒍𝒍𝒚 𝒇𝒐𝒖𝒏𝒅 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒕𝒊𝒔𝒕..
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 - 🎓 Doing BS(CS) from FAST NUCES.<br>
 - 🌱 Currently learning Data Science.<br>
-- 👯 Looking to collaborate on web projects, Desktop projects.<br>
+- 👯 Looking to collaborate on web projects<br>
 - 💬 Ask me about any tech related stuff.<br>
 - 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
 - 😊 Let's go to done something new.<br>
