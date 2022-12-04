@@ -55,7 +55,7 @@
 
 
 
-[![Dawood's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dawoodeveloper&bg_color=000000&color=4c9d9e&line=e2a2be&point=0cfd08&area=true&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3> 🤝🏻 &nbsp; Followers </h3>
