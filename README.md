@@ -49,7 +49,13 @@
 <h2>Github Stats </br>
 
 <a href="https://github.com/Dawoodeveloper/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoodeveloper&layout=default&theme=radical&buefy&hide_border=true" /></a> 
-<a href="https://github.com/Dawoodeveloper/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Dawoodeveloper&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="Dawoodeveloper's github stats" ></a>
+<a href="https://github.com/Dawoodeveloper/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Dawoodeveloper&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="Dawoodeveloper's github stats" >
+
+
+
+
+
+</a>
 
 
 
