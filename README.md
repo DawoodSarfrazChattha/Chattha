@@ -46,12 +46,10 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <br><br>
 
-<h2>Github Stats </br>
-
-<a href="https://github.com/Dawoodeveloper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoodeveloper&layout=default&theme=radical&buefy&hide_border=true" /></a> 
-
+<h2>Github Stats </br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoodeveloper&langs_count=10&layout=default&theme=radical&buefy&hide_border=true)](https://github.com/Dawoodeveloper/github-readme-stats)
-<a href="https://github.com/Dawoodeveloper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dawoodeveloper&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="Dawoodeveloper's github stats" ></a>
+
+<a href="https://github.com/Dawoodeveloper/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Dawoodeveloper&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" alt="Dawoodeveloper's github stats" ></a>
 
 
 
