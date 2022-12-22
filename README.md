@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 👯 Looking to collaborate on web projects<br>
 - 💬 Ask me about any tech related stuff.<br>
 - 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
-- 😊 Let's go to done something new.<br>
+- 😊 Let's do something new.<br>
 
 ## Languages
 
@@ -62,10 +62,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://github.com/Dawoodeveloper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoodeveloper&langs_count=12&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-
-<h3> 🤝🏻 &nbsp; Followers </h3>
-
-<p> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DawoodChattha03?style=social">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Dawoodeveloper?style=social">
-</p>
