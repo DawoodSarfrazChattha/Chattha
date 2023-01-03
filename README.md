@@ -44,6 +44,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /><br>
+<br>
+<br>
 
 
 
@@ -52,7 +54,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>_**My GitHub Stats**_</b>
 
 <a href="https://github.com/Dawoodeveloper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoodeveloper&langs_count=100&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 <a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=Dawoodeveloper&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dawoodeveloper's GitHub stats" /></a>
 
