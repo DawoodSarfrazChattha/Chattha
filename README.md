@@ -47,7 +47,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>_**My GitHub Stats**_</b>
 [![Dawood Sarfraz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dawoodeveloper&theme=high-contrast)](https://github.com/Dawoodeveloper/github-readme-activity-graph)
 
- ![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawoodeveloper&theme=dark&show_icons=true)
+ ![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawoodeveloper&theme=dark&show_icons=true&background=1c1917)
 
 <a href="http://www.github.com/Dawoodeveloper"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawoodeveloper&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
