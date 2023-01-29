@@ -45,7 +45,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <br>
 
-<b>_**My GitHub Stats**_</b>
+# <b>_**My GitHub Stats**_</b>
+
 [![Dawood Sarfraz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dawoodeveloper&theme=high-contrast)](https://github.com/Dawoodeveloper/github-readme-activity-graph)
 
  ![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawoodeveloper&theme=dark&show_icons=true&background=1c1917)
