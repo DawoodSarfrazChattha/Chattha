@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
 - 😊 Let's do something new.<br>
 
-## Languages
+# Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/-HTML-000?&logo=HTML)
 
-## Tools
+# Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
