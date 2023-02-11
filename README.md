@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 - 🎓 Doing BS(CS) from FAST NUCES.<br>
-- 🌱 Currently learning Data Science.<br>
-- 👯 Looking to collaborate on web projects<br>
+- 🌱 Currently learning ML(Machine Learnig).<br>
+- 👯 Looking to collaborate on Open Source Projects<br>
 - 💬 Ask me about any tech related stuff.<br>
 - 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
 - 😊 Let's do something new.<br>
