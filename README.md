@@ -19,6 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![Julia](https://img.shields.io/badge/-julia-000?&logo=Julia)
 
 # Tools
 
