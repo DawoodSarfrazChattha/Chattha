@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Dawood Sarfraz
 =============================================================================================================================================
 
-<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
+<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/hjgiphy.gif" width="40"></h3>
 - 🎓 Doing BS(CS) from FAST NUCES.<br>
 - 🌱 Currently learning ML(Machine Learnig).<br>
 - 👯 Looking to collaborate on Open Source Projects<br>
