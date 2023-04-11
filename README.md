@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dawoodsarfraz)<br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Daudsarfraz)<br>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Dawood Sarfraz
 =============================================================================================================================================
 
@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 💬 Ask me about any tech related stuff.<br>
 - 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
 - 😊 Let's do something new.<br>
-- 🎯 Portfolio website: <a href="https://Dawoodsarfraz.github.io/dawood-sarfraz-portfolio/"> Portfolio</a>
+- 🎯 Portfolio website: <a href="https://Daudsarfraz.github.io/dawood-sarfraz-portfolio/"> Portfolio</a>
 
 # Languages
 
@@ -49,11 +49,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # <b>_**My GitHub Stats**_</b>
 
-[![Dawood Sarfraz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dawoodsarfraz&theme=high-contrast)](https://github.com/Dawoodsarfraz/github-readme-activity-graph)
+[![Dawood Sarfraz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daudsarfraz&theme=high-contrast)](https://github.com/Daudsarfraz/github-readme-activity-graph)
 
- ![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawoodsarfraz&theme=dark&show_icons=true&background=1c1917)
+ ![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daudsarfraz&theme=dark&show_icons=true&background=1c1917)
 
-<a href="http://www.github.com/Dawoodsarfraz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawoodsarfraz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+<a href="http://www.github.com/Daudsarfraz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawoodsarfraz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
 # <b>_**Top Languages**_</b>
-<a href="https://github.com/Dawoodeveloper" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoodsarfraz&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Daudsarfraz" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
