@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # Connect with me
 
 - 🎯 Portfolio website: <a href="https://Daudsarfraz.github.io/dawood-sarfraz-portfolio/"> Portfolio</a>
-- ✉️
+- 📧 
 # Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
