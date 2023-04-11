@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
 - 😊 Let's do something new.<br>
 - 🎯 Portfolio website: <a href="https://Daudsarfraz.github.io/dawood-sarfraz-portfolio/"> Portfolio</a>
-
+- [I'm an inline-style link](https://www.google.com)
 # Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
