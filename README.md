@@ -10,11 +10,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: dawoodsarfraz0346@gmail.com<br>
 - 😊 Let's do something new.<br>
 - 
-# Connect with me
 
-- 🎯 Portfolio website: <a href="https://Daudsarfraz.github.io/dawood-sarfraz-portfolio/"> Portfolio</a>
-- 📧 
-# Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Julia](https://img.shields.io/badge/-julia-000?&logo=Julia)
@@ -24,11 +21,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
+### Web Development
 
-# Tools
+### Artifical Intelligence | Machine Learning | Data Science
+
+
+### Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -50,7 +51,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <br>
 
-# <b>_**My GitHub Stats**_</b>
+### <b>_**My GitHub Stats**_</b>
 
 [![Dawood Sarfraz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daudsarfraz&theme=high-contrast)](https://github.com/Daudsarfraz/github-readme-activity-graph)
 
@@ -58,5 +59,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/Daudsarfraz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawoodsarfraz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
-# <b>_**Top Languages**_</b>
+### <b>_**Top Languages**_</b>
 <a href="https://github.com/Daudsarfraz" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Connect with me
+
+- 🎯 Portfolio website: <a href="https://Daudsarfraz.github.io/dawood-sarfraz-portfolio/"> Portfolio</a>
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
