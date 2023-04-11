@@ -14,13 +14,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Julia](https://img.shields.io/badge/-julia-000?&logo=Julia)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![HTML5](https://img.shields.io/badge/-HTML-000?&logo=HTML)
-![Julia](https://img.shields.io/badge/-julia-000?&logo=Julia)
+
 
 # Tools
 
