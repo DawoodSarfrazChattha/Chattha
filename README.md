@@ -66,7 +66,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Connect with me
 
 - 🎯 Portfolio website: <a href="https://Daudsarfraz.github.io/dawood-sarfraz-portfolio/"> Portfolio</a>
-
+<a href="https://c9s.medium.com" target="_blank">
+<img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white/>
+</a> 
 <a href="https://instagram.com/c9s" target="_blank">
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
  </a>
