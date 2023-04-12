@@ -198,4 +198,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
  
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-![Upwork](https://img.shields.io/badge/Fiverr-6FDA44?style=for-the-badge&logo=Fiverr&logoColor=white)
+![Upwork](https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=Fiverr&logoColor=white)
