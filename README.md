@@ -1,22 +1,15 @@
-<p align="center">
- 
- <a href="https://github.com/Daudsarfraz/github-readme-stats/actions">
-      <img alt="visitors" src="https://github.com/Daudsarfraz/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/Daudsarfraz/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Daudsarfraz&left_color=0088ff)
     <a href="https://github.com/Daudsarfraz/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Daudsarfraz/github-readme-stats" />
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Daudsarfraz/github-readme-stats?left_color=0088ff" />
     </a>
     <a href="https://codecov.io/gh/Daudsarfraz/github-readme-stats">
       <img src="https://codecov.io/gh/Daudsarfraz/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <a href="https://github.com/Daudsarfraz/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Daudsarfraz/github-readme-stats?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/Daudsarfraz/github-readme-stats?left_color=0088ff" />
     </a>
     <a href="https://github.com/Daudsarfraz/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Daudsarfraz/github-readme-stats?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Daudsarfraz/github-readme-stats?left_color=0088ff" />
     </a>
  <br>
  
@@ -126,7 +119,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### <b>_**Top Languages**_</b>
 <a href="https://github.com/Daudsarfraz" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 ### Connect with me
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
