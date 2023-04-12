@@ -105,6 +105,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### <b>_**Top Languages**_</b>
 <a href="https://github.com/Daudsarfraz" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <p align='center'>
 <h3><b>Connect with me<b></h3>
  </p>
@@ -149,17 +150,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  <h3><b> Developer Forums</b> </h3>
  </p>
  
-  <p align='center'>
+ <p align='center'>
 <a href = "https://www.codechef.com/users/daudsarfaz">                                             
     <img src ="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/)
 </a>     
  
 <a href = "https://codeforces.com/profile/DawoodSarfraz">                                                                                                     
 <img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/)
-</a>   
- <!--                                                                                                                                               
-![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
-    -->                                                                                                     
+</a> 
+ 
+<a href = "https://www.hackerearth.com/@Daudsarfraz">
+    <img src = "https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/)
+</a>    
+ 
 <a href = "https://www.hackerrank.com/Daudsarfraz?hr_r=1">
     <img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/)
 </a>
@@ -182,6 +185,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  </p>
  
  <p align = 'center'>
+  
         <h3><b> Blogs</b> </h3>
 </p>
 <p align='center'>
