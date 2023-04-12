@@ -196,3 +196,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/)
 </a>
 </p>
+ 
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+![Upwork](https://img.shields.io/badge/Fiverr-6FDA44?style=for-the-badge&logo=Fiverr&logoColor=white)
