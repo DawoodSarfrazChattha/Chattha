@@ -103,8 +103,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daudsarfraz&theme=dark&show_icons=true&background=1c1917)
 <a href="https://github.com/Daudsarfraz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&langs&layout=compact" alt="Top Languages" /></a>
 
-### <b>_**Top Languages**_</b>
-<a href="https://github.com/Daudsarfraz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&langs&layout=compact" alt="Top Languages" /></a>
+
 
 <p align='center'>
 <h3><b>Connect with me<b></h3>
