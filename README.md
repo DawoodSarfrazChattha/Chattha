@@ -34,6 +34,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23FF6F00.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+ ![Bokeh](https://img.shields.io/badge/Bokeh-%23FF6F00.svg?style=for-the-badge&logo=Bokeh&logoColor=white)
+
 ### Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
