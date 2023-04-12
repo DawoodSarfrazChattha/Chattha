@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Daudsarfraz&left_color=0088ff)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Daudsarfraz&left_color=0088ff)<br>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Dawood Sarfraz
 =============================================================================================================================================
 
@@ -149,9 +149,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://twitter.com/DawoodChattha03">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
 </a> 
-                                                                                                           
+ 
+ 
+<p align = 'center'>
+        <h3><b> Blogs</b> </h3>
+</p>
+<p align='center'>
 <a href="https://dev.to/daudsarfraz">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/)
+    <img src="h<p alttps://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/)
 </a>
       
 <a href="https://hashnode.com/@Daudsarfraz">
@@ -165,8 +170,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href = "https://stackoverflow.com/users/17627636/dawood-sarfraz">
 <img src = "https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/)                          
 </a>
- <br>
-### Developer Forums
+ </p>
+ 
+ <p align='center'>
+ <h3><b> Developer Forums</b> </h3>
+ </p>
+  <p align='center'>
 <a href = "https://www.codechef.com/users/daudsarfaz">                                             
     <img src ="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/)
 </a>              
@@ -187,3 +196,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  <a href = "https://www.kaggle.com/dawoodsarfraz">
      <img src = "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/)
  </a>
+  </p>
