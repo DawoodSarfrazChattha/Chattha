@@ -107,7 +107,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### <b>_**Top Languages**_</b>
 <a href="https://github.com/Daudsarfraz" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Connect with me
+<p align='center'>
+<h3><b>Connect with me<b></h3>
+ </p>
 <p align='center'>
  
  <a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
@@ -150,7 +152,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
 </a> 
  
- 
+ </p>
 <p align = 'center'>
         <h3><b> Blogs</b> </h3>
 </p>
@@ -167,14 +169,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/)
 </a>
  
-<a href = "https://stackoverflow.com/users/17627636/dawood-sarfraz">
-<img src = "https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/)                          
-</a>
+
  </p>
  
  <p align='center'>
  <h3><b> Developer Forums</b> </h3>
  </p>
+ 
   <p align='center'>
 <a href = "https://www.codechef.com/users/daudsarfaz">                                             
     <img src ="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/)
@@ -196,4 +197,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  <a href = "https://www.kaggle.com/dawoodsarfraz">
      <img src = "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/)
  </a>
-  </p>
+  
+<a href = "https://stackoverflow.com/users/17627636/dawood-sarfraz">
+   <img src = "https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/)                          
+</a>
+<a href = "https://stackexchange.com/users/23589666/dawood-sarfraz">
+    <img src = "https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/)
+ </a>
+ </p>
