@@ -10,7 +10,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 💬 Ask me about any tech related stuff.<br>
 - 😊 Let's do something new.<br>
 
-
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -131,41 +130,56 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
           </a>&nbsp;&nbsp;
           
- <a href = " https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
+<a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/)
-           </a>&nbsp;&nbsp;
+</a>
                                                                                                               
 <a href = " https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/)
-                                                                                                         </a>&nbsp;&nbsp;
-          <a href = " https://www.linkedin.com/in/dawood-sarfraz-0466541b6">                                                                                               
+</a>
+                                                                                                         
+<a href = " https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/)
-        <a href = " https://www.linkedin.com/in/dawood-sarfraz-0466541b6">                                                                                           
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-  <a href="https://medium.com/@dawoodsarfraz0346">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+</a>
+                                                                                                   
+<a href="https://medium.com/@dawoodsarfraz0346">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+</a>
   <a href="https://twitter.com/DawoodChattha03">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-   </p>
- 
-### Blogs
- <a href="https://twitter.com/DawoodChattha03">
-<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/)
-    </a>&nbsp;&nbsp; </a>&nbsp;&nbsp;
-     <a href="https://twitter.com/DawoodChattha03">
+  </a>                                                                                                   
+     <a href="https://dev.to/daudsarfraz">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/)
      </a>&nbsp;&nbsp;
-     <a href="https://twitter.com/DawoodChattha03">
-<img src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E"/)
-     </a>&nbsp;&nbsp;
+      
      <a href="https://hashnode.com/@Daudsarfraz">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/)
-     </a>&nbsp;&nbsp;
+     </a>&nbsp;
       
-     <a href="https://medium.com/@dawoodsarfraz0346">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/)
-     </a>&nbsp;&nbsp;
+<a href="https://medium.com/@dawoodsarfraz0346">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/)
+</a>&nbsp;
+                                                                                                         
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+                                                                                                                                                               ### Developer Forum                             
+                                                                                                         
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+                                                                                                         
+<a href = "https://codeforces.com/profile/DawoodSarfraz"/>                                                                                                     
+<img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white")
+</a>                                                                                                        
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+                                                                                                         
+![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+                                                                                                         
+<a href = "https://www.hackerrank.com/Daudsarfraz?hr_r=1"/>
+<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/)
+</a>
+                                                                                                                
+ <a href = "https://leetcode.com/Daudsarfraz/"/>                                                                                                              
+ <img src = "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/)
+ </a>
+                                                                                                              
+ <a href = "https://www.kaggle.com/dawoodsarfraz">
+ <img src = "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/)
+  </a>
