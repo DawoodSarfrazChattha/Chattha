@@ -101,7 +101,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=Daudsarfraz&theme=high-contrast)](https://github.com/Daudsarfraz/github-readme-activity-graph)
 
 ![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daudsarfraz&theme=dark&show_icons=true&background=1c1917)
-<a href="https://github.com/Daudsarfraz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&langs&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/Daudsarfraz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&layout=compact" alt="Top Languages" /></a>
 
 
 
