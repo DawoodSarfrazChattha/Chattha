@@ -1,5 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Daudsarfraz&left_color=0088ff) 
-<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Daudsarfraz&left_color=0088ff)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Dawood Sarfraz
 =============================================================================================================================================
 
@@ -166,11 +165,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href = "https://stackoverflow.com/users/17627636/dawood-sarfraz">
 <img src = "https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/)                          
 </a>
-   
+ <br>
+### Developer Forums
 <a href = "https://www.codechef.com/users/daudsarfaz">                                             
     <img src ="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/)
 </a>              
- 
 <a href = "https://codeforces.com/profile/DawoodSarfraz">                                                                                                     
 <img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/)
 </a>   
@@ -178,13 +177,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
     -->                                                                                                     
 <a href = "https://www.hackerrank.com/Daudsarfraz?hr_r=1">
-<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/)
+    <img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/)
 </a>
                                                                                                                 
  <a href = "https://leetcode.com/Daudsarfraz/">                                                                                                              
- <img src = "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/)
+     <img src = "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/)
  </a>
                                                                                                               
  <a href = "https://www.kaggle.com/dawoodsarfraz">
- <img src = "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/)
-  </a>
+     <img src = "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/)
+ </a>
