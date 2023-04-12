@@ -161,7 +161,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>&nbsp;
                                                                                                          
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-                                                                                                                                                               ### Developer Forum                             
+                                             <br>                                                                                                             ### Developer Forum                             
                                                                                                          
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
                                                                                                          
