@@ -1,4 +1,25 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Daudsarfraz)<br>
+<p align="center">
+ 
+ <a href="https://github.com/Daudsarfraz/github-readme-stats/actions">
+      <img alt="visitors" src="https://github.com/Daudsarfraz/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/Daudsarfraz/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/Daudsarfraz/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Daudsarfraz/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/Daudsarfraz/github-readme-stats">
+      <img src="https://codecov.io/gh/Daudsarfraz/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/Daudsarfraz/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Daudsarfraz/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/Daudsarfraz/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Daudsarfraz/github-readme-stats?color=0088ff" />
+    </a>
+ <br>
+ 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Dawood Sarfraz
 =============================================================================================================================================
 
@@ -96,15 +117,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Testing
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ### <b>_**My GitHub Stats**_</b>
-
 [![Dawood Sarfraz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daudsarfraz&theme=high-contrast)](https://github.com/Daudsarfraz/github-readme-activity-graph)
+
 
  ![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daudsarfraz&theme=dark&show_icons=true&background=1c1917)
 
-<a href="http://www.github.com/Daudsarfraz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawoodsarfraz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+<a href="http://www.github.com/Daudsarfraz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawoodsarfraz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### <b>_**Top Languages**_</b>
-<a href="https://github.com/Daudsarfraz" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Daudsarfraz" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ### Connect with me
