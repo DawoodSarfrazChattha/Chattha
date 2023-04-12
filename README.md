@@ -1,18 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Daudsarfraz&left_color=0088ff)
-    <a href="https://github.com/Daudsarfraz/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Daudsarfraz/github-readme-stats?left_color=0088ff" />
-    </a>
-    <a href="https://codecov.io/gh/Daudsarfraz/github-readme-stats">
-      <img src="https://codecov.io/gh/Daudsarfraz/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/Daudsarfraz/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Daudsarfraz/github-readme-stats?left_color=0088ff" />
-    </a>
-    <a href="https://github.com/Daudsarfraz/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Daudsarfraz/github-readme-stats?left_color=0088ff" />
-    </a>
- <br>
- 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Daudsarfraz&left_color=0088ff) 
+<br>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Dawood Sarfraz
 =============================================================================================================================================
 
