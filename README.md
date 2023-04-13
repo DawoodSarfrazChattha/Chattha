@@ -179,20 +179,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/)
 </a>
-                                                                                                         
-<a href = " https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/)
-</a>
-                                                                                                   
-<a href="https://medium.com/@dawoodsarfraz0346">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-</a>
-                                                                                                                   
+                                                                                                                  
 <a href="https://twitter.com/DawoodChattha03">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>        
 </a> 
-<a href = "
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a href = "https://github.com/Daudsarfraz">
+<img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
            </a>
            
 <a href = "https://gitlab.com/Daudsarfraz">
@@ -202,8 +194,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href = "https://replit.com/@Daudsarfraz">
 <img src = "https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
 </a>
-                                                                                                              
-<img src = "https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white"/>
+
 <a href = "https://bitbucket.org/daudsarfraz/workspace/overview">
 <img src = "https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </a>
