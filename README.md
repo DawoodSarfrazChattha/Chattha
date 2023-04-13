@@ -134,7 +134,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 </p>
-
+<br>
 ### Others
 
 <p align='center'>
@@ -146,7 +146,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 </p>
-
+<br>
 ### Testing
 
 <p align='center'>
@@ -176,11 +176,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href = "https://wa.link/18z847">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/)
 </a>
- 
-<a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
-    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/)
-</a>
-                                                                                                                  
+                                                                                                                 
 <a href="https://twitter.com/DawoodChattha03">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>        
 </a> 
