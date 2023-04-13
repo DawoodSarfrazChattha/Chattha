@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================================
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
-- 🎓 Doing BS-CS from FAST-NUCES<br>
+- 🎓 Doing <b><i>BS-CS</b></i> from <b><i>FAST-NUCES</b></i><br>
 - 🌱 Currently learning <b><i>ML (Machine Learnig)</i></b><br>
 - 👯 Looking to collaborate on <b><i>Open Source Projects</i></b><br>
 - 💬 Ask me about any tech related stuff.<br>
