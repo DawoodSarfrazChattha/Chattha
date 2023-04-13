@@ -244,7 +244,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
  
 <a href = "https://stackexchange.com/users/23589666/dawood-sarfraz">
-    <img src = "https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/)
+    <img src = "https://img.shields.io/badge/StackExchange-999999.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/)
  </a>
  </p>
  
