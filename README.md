@@ -115,7 +115,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/)
  </a>
    
-<a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
+<a href = "https://wa.link/18z847">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/)
 </a>
  
