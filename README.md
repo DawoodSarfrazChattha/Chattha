@@ -8,8 +8,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 👯 Looking to collaborate on <b><i>Open Source Projects</i></b><br>
 - 💬 Ask me about any tech related stuff.<br>
 - 😊 Let's do something new.<br>
-
-### Languages
+<p align='center'>
+<h3><b>Languages</b></h3>
+ </p>
 <p align='center'>
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
