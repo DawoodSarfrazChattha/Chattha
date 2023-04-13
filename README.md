@@ -38,7 +38,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%808080.svg?style=for-the-badge&logo=Seaborn&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%232C5263.svg?style=for-the-badge&logo=Seaborn&logoColor=black)
 ![Bokeh](https://img.shields.io/badge/Bokeh-%23FF6F00.svg?style=for-the-badge&logo=Bokeh&logoColor=white)
 
 </p>
