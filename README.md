@@ -8,9 +8,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 👯 Looking to collaborate on <b><i>Open Source Projects</i></b><br>
 - 💬 Ask me about any tech related stuff.<br>
 - 😊 Let's do something new.<br>
-<p align='center'>
-<h3><b>Languages</b></h3>
- </p>
+
+## Languages
 <p align='center'>
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,7 +24,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
  </p>
  
-### Artifical Intelligence | Machine Learning | Data Science
+## Artifical Intelligence | Machine Learning | Data Science
 
 <p align='center'>
  
@@ -45,7 +44,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-### Web Development
+## Web Development
 
 <p align='center'>
  
@@ -65,7 +64,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </p>
 
-### Operating Systems
+## Operating Systems
 
 <p align='center'>
  
@@ -76,7 +75,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </p>
 
-### Editors
+## Editors
 
 <p align='center'>
 
@@ -99,7 +98,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </p>
 
-### Databases Tools
+## Databases Tools
 
 <p align='center'>
 
@@ -110,7 +109,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </p>
 
-### Version Control
+## Version Control
 
 <p align='center'>
 
@@ -123,7 +122,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </p>
 
-### SaaS
+## SaaS
 
 <p align='center'>
 
@@ -135,7 +134,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </p>
 
-### Others
+## Others
 
 <p align='center'>
 
@@ -147,7 +146,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </p>
 
-### Testing
+## Testing
 
 <p align='center'>
 
@@ -155,13 +154,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </p>
 
-### <b>_**My GitHub Stats**_</b>
+## <b>_**My GitHub Stats**_</b>
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=Daudsarfraz&theme=high-contrast)](https://github.com/Daudsarfraz/github-readme-activity-graph)
 ![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daudsarfraz&theme=dark&show_icons=true&background=1c1917)
 <a href="https://github.com/Daudsarfraz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&layout=compact&theme=dark" alt="Top Languages"/></a>
 
 <p align='center'>
-<h3><b>Connect with me<b></h3>
+<h2><b>Connect with me<b></h2>
  </p>
 <p align='center'>
  
@@ -180,9 +179,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://twitter.com/DawoodChattha03">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>        
 </a> 
+
+<a href = "https://join.skype.com/invite/rtOQEcL0GFAC">
+<img src = "https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
+</a>
+ 
 <a href = "https://github.com/Daudsarfraz">
 <img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-           </a>
+</a>
            
 <a href = "https://gitlab.com/Daudsarfraz">
 <img src = "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
