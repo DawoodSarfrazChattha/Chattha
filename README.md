@@ -1,12 +1,16 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Daudsarfraz&left_color=0088ff)<br>
+<div align="center">  
+<img src="https://komarev.com/ghpvc/?username=Daudsarfraz&style=flat-square&color=blue" alt=""/>
+</div>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Dawood Sarfraz
 =============================================================================================================================================
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
-- 🎓 Doing <b><i>BS-CS</b></i> from <b><i>FAST-NUCES</b></i><br>
-- 🌱 Currently learning <b><i>ML (Machine Learnig)</i></b><br>
-- 👯 Looking to collaborate on <b><i>Open Source Projects</i></b><br>
+- 🎓 <b><i>BS-CS</b></i> Student <b><i>FAST-NUCES</b></i><br>
+- 🌱 Currently learning <b><i>Machine Learnig</i></b><br>
+- 👯 I’m looking to collaborate on projects related with AI.<br>
 - 💬 Ask me about any tech related stuff.<br>
+- 🤔 I’m looking for help with my Work to Grow.<br>
 - 😊 Let's do something new.<br>
 
 ## Languages
@@ -56,12 +60,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
 </p>
 
 ## Operating Systems
@@ -82,27 +83,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-
 </p>
 
 ## Databases Tools
 
 <p align='center'>
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -146,20 +136,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </p>
 
-## Testing
-
-<p align='center'>
-
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-</p>
-
 ## <b>_**My GitHub Stats**_</b>
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=Daudsarfraz&theme=high-contrast)](https://github.com/Daudsarfraz/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daudsarfraz&theme=high-contrast)](https://github.com/Daudsarfraz/github-readme-activity-graph)
+
 ![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daudsarfraz&theme=dark&show_icons=true&background=1c1917)
 <a href="https://github.com/Daudsarfraz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&layout=compact&theme=dark" alt="Top Languages"/></a>
 
 <p align='center'>
+
+ 
 <h2><b>Connect with me<b></h2>
  </p>
 <p align='center'>
@@ -168,7 +153,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
   
- <a href = "mailto: adawoodsarfraz0346@gmail.com">
+ <a href = "mailto: dawoodsarfraz0346@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/)
  </a>
    
@@ -179,25 +164,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://twitter.com/DawoodChattha03">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>        
 </a> 
-
-<a href = "https://join.skype.com/invite/rtOQEcL0GFAC">
-<img src = "https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
-</a>
-
- <a href = "https://github.com/Daudsarfraz">
-<img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-           
+      
 <a href = "https://gitlab.com/Daudsarfraz">
-<img src = "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+   <img src = "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 
 <a href = "https://replit.com/@Daudsarfraz">
-<img src = "https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
 </a>
 
 <a href = "https://bitbucket.org/daudsarfraz/workspace/overview">
-<img src = "https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </a>
  </p>
 
@@ -234,10 +211,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href = "https://stackoverflow.com/users/17627636/dawood-sarfraz">
    <img src = "https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/)                          
 </a>
- 
-<a href = "https://stackexchange.com/users/23589666/dawood-sarfraz">
-    <img src = "https://img.shields.io/badge/StackExchange-999999.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/)
- </a>
+
  </p>
  
  <p align = 'center'>
@@ -256,8 +230,49 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/)
 </a>
 </p>
- <!--
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<!--
 ### Freelancing sites
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 ![Upwork](https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=Fiverr&logoColor=white)
+
+<a href = "https://join.skype.com/invite/rtOQEcL0GFAC">
+<img src = "https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
+</a>
+
+## Testing
+
+<p align='center'>
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</p> 
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
+ -->
+ 
+ <!--
+### :fire: My Stats :
+![Dawood Sarfraz github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=Daudsarfraz)
+![Dawood Sarfraz github-trophies](https://stats.hyochan.dev/api/github-trophies?login=Daudsarfraz)
  -->
