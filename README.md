@@ -6,7 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================================
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
+- "The true power of a neural network lies not in its complexity, but in its ability to uncover patterns and make sense of the world in ways that surpass human understanding." - Alan Turing
 - 🎓 <b><i>BS-CS</b></i> Student <b><i>FAST-NUCES</b></i><br>
+-
 - 🌱 Currently learning <b><i>Machine Learnig</i></b><br>
 - 👯 I’m looking to collaborate on projects related with AI.<br>
 - 💬 Ask me about any tech related stuff.<br>
