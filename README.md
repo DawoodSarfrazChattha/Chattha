@@ -1,6 +1,6 @@
-<div align="center">  
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daudsarfraz&theme=nord_dark"> </div>br>
-<img src="https://komarev.com/ghpvc/?username=Daudsarfraz&style=flat-square&color=blue" alt=""/>
+<div align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Daudsarfraz&style=flat-square&color=blue" alt=""/> <br>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daudsarfraz&theme=nord_dark"> </div></br>
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Dawood Sarfraz
