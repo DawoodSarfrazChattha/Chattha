@@ -1,4 +1,5 @@
 <div align="center">  
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daudsarfraz&theme=nord_dark"> 
 <img src="https://komarev.com/ghpvc/?username=Daudsarfraz&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -62,15 +63,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-## Databases Tools
-
-<p align='center'>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-</p>
 
 ## Version Control
 
@@ -97,8 +89,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## <b>_**My GitHub Stats**_</b>
 [![Dawood Sarfraz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daudsarfraz&theme=high-contrast)](https://github.com/Daudsarfraz/github-readme-activity-graph)
 
-![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daudsarfraz&theme=dark&show_icons=true&background=1c1917)
-<a href="https://github.com/Daudsarfraz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&layout=compact&theme=dark" alt="Top Languages"/></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daudsarfraz&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daudsarfraz&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daudsarfraz&theme=nord_dark)
 
 <p align='center'>
 
