@@ -6,7 +6,8 @@ Hi I'm Dawood Sarfraz
 =============================================================================================================================================
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
-- Final year student of **BS-CS** at **FAST-NUCES (National University of Computer & Emerging Sciences)**
+- Final year student of <b><i>Bachelor of Science in Computer Science</i></b> at <b><i>FAST-NUCES (National University of Computer & Emerging Sciences).</i></b>
+
 - My primary areas of interest include:
   - **Artificial Intelligence**
   - **Machine Learning**
@@ -15,6 +16,7 @@ Hi I'm Dawood Sarfraz
   - **Data Science**
   - **Digital Image Processing**
   - **Computer Vision**
+
 - I'm looking to collaborate on projects.
 
 
