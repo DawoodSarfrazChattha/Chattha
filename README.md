@@ -6,12 +6,12 @@ Hi I'm Dawood Sarfraz
 =============================================================================================================================================
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
-- 🎓 <b><i>BS-CS</b></i> Student <b><i>FAST-NUCES</b></i><br>
-- 🌱 Currently learning <b><i>Machine Learnig, Deep Learning, Natural Language Processing, Data Science, Computer Vision</i></b><br>
-- 👯 I’m looking to collaborate on projects related with AI.<br>
-- 💬 Ask me about any tech related stuff.<br>
-- 🤔 I’m looking for help with my Work to Grow.<br>
-- 😊 Let's do something new.<br>
+-  <b><i>BS-CS</b></i> Student <b><i>FAST-NUCES</b></i><br>
+- My primary areas of interest include <b><i>Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Data Science, Digital Image Processing and Computer Vision.</i></b><br>
+-  I’m looking to collaborate on projects related with AI.<br>
+-  Ask me about any tech related stuff.<br>
+-  I’m looking for help with my Work to Grow.<br>
+-  Let's do something new.<br>
 
 ## Languages
 <p align='center'>
