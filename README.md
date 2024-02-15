@@ -140,7 +140,7 @@ Hi I'm Dawood Sarfraz
  <h3><b> Developer Forums</b> </h3>
  </p>
  
- <p align='center'>
+ <p align='center'> 
 <a href = "https://www.codechef.com/users/daudsarfaz">                                             
     <img src ="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/)
 </a>     
