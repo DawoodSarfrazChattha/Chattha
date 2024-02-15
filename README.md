@@ -38,8 +38,7 @@ Hi I'm Dawood Sarfraz
  
  </p>
  
-## Artifical Intelligence | Machine Learning | Data Science
-
+## AI | ML | NLP | DS | CV | DIP
 <p align='center'>
  
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
