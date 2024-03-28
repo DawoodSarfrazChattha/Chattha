@@ -2,7 +2,7 @@
  <img src="https://komarev.com/ghpvc/?username=Daudsarfraz&style=flat-square&color=blue" alt=""/> <br>
 </div>
 
-Hi I'm Dawood Sarfraz
+Hi, I'm Dawood Sarfraz
 =============================================================================================================================================
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
