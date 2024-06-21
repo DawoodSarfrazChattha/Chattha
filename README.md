@@ -20,7 +20,6 @@ Hi, I'm Dawood Sarfraz
   - **Computer Vision**
   - **Large Language Models**
   - **Reinforcement Learning**
-  - 
 
 - I'm looking to collaborate on projects.
 
