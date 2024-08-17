@@ -122,21 +122,7 @@ Hi, I'm Dawood Sarfraz
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>        
 </a> 
 
-<a href = "https://wa.link/18z847">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/)
-</a>
 
-<a href = "https://gitlab.com/Daudsarfraz">
-   <img src = "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</a>
-
-<a href = "https://replit.com/@Daudsarfraz">
-  <img src = "https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
-</a>
-
-<a href = "https://bitbucket.org/daudsarfraz/workspace/overview">
-  <img src = "https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-</a>
  </p>
 
  <!--
@@ -256,6 +242,24 @@ Hi, I'm Dawood Sarfraz
 
 </p>
 
+### Contacts
+
+<a href = "https://wa.link/18z847">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/)
+</a>
+
+<a href = "https://gitlab.com/Daudsarfraz">
+   <img src = "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+<a href = "https://replit.com/@Daudsarfraz">
+  <img src = "https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
+</a>
+
+<a href = "https://bitbucket.org/daudsarfraz/workspace/overview">
+  <img src = "https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+</a>
+
 ## Editors
 
 <p align='center'>
@@ -274,3 +278,7 @@ Hi, I'm Dawood Sarfraz
 ![Dawood Sarfraz github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=Daudsarfraz)
 ![Dawood Sarfraz github-trophies](https://stats.hyochan.dev/api/github-trophies?login=Daudsarfraz)
  -->
+
+
+
+ 
