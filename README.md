@@ -24,7 +24,6 @@ Hi, I'm Dawood Sarfraz
 - I'm looking to collaborate on projects.
 
 
-
 ## Languages
 <p align='center'>
  
