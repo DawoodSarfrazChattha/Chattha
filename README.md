@@ -18,9 +18,9 @@ Hi, I'm Dawood Sarfraz
   - **Data Science**
   - **Digital Image Processing**
   - **Computer Vision**
-<!--  - **Large Language Models**
+  - **Large Language Models**
   - **Reinforcement Learning**
--->
+  - **Robotics**
 - I'm looking to collaborate on projects.
 
 
